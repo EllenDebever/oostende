@@ -1441,7 +1441,7 @@
 						"NAME_1" : "Oostende",
 						"ID_2" : "35013st",
 						"NAME_2" : "Stene",
-						"TYPE_2" : "wijk"
+						"TYPE_2" : "Wijk"
 					}
 				},
 				{
@@ -1456,7 +1456,7 @@
 						"NAME_1" : "Oostende",
 						"ID_2" : "35013wv",
 						"NAME_2" : "Westerkwartier - Vlaams plein",
-						"TYPE_2" : "wijk"
+						"TYPE_2" : "Wijk"
 					}
 				},
 				{
@@ -1471,7 +1471,7 @@
 						"NAME_1" : "Oostende",
 						"ID_2" : "35013ra",
 						"NAME_2" : "Raversijde",
-						"TYPE_2" : "wijk"
+						"TYPE_2" : "Wijk"
 					}
 				},
 				{
@@ -1486,7 +1486,7 @@
 						"NAME_1" : "Oostende",
 						"ID_2" : "35013mn",
 						"NAME_2" : "Mariakerke - Nieuwe koers",
-						"TYPE_2" : "wijk"
+						"TYPE_2" : "Wijk"
 					}
 				},
 				{
@@ -1501,7 +1501,7 @@
 						"NAME_1" : "Oostende",
 						"ID_2" : "35013km",
 						"NAME_2" : "Konterdam - Meiboom",
-						"TYPE_2" : "wijk"
+						"TYPE_2" : "Wijk"
 					}
 				},
 				{
@@ -1516,7 +1516,7 @@
 						"NAME_1" : "Oostende",
 						"ID_2" : "35013ce",
 						"NAME_2" : "Centrum",
-						"TYPE_2" : "wijk"
+						"TYPE_2" : "Wijk"
 					}
 				},
 				{
@@ -1536,7 +1536,7 @@
 						"NAME_1" : "Oostende",
 						"ID_2" : "35013vu",
 						"NAME_2" : "Vuurtoren",
-						"TYPE_2" : "wijk"
+						"TYPE_2" : "Wijk"
 					}
 				}
 			]
